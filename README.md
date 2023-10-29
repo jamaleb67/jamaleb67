@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jamal Brooks
+Hi ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jamal Brooks
 ====================================================================================================================================
 
 Signal Leader @ US Army | IT Professional | People First, Winning Matters
@@ -38,8 +38,10 @@ I am currently an IT Project Manager at Fort Belvoir. I am also pursuing a secon
 <p align="center">
 <a href="http://www.github.com/jamaleb67"><img src="https://github-readme-stats.vercel.app/api?username=jamaleb67&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="jamaleb67's GitHub stats" /></a>
 <a href="http://www.github.com/jamaleb67"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamaleb67&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-<a href="http://www.github.com/jamaleb67"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jamaleb67&bg_color=000000&color=3382ed&line=ffffff&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/jamaleb67" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaleb67&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamaleb67&bg_color=100f0f&color=ac5711&line=9aa046&point=215e7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/jamaleb67/jamaleb67.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jamaleb67&repo=jamaleb67.github.io&title_color=0891b2&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/jamaleb67/Jamal-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jamaleb67&repo=Jamal-Portfolio&title_color=0891b2&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
